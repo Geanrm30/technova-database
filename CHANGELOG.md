@@ -1,30 +1,19 @@
-\# Historial de cambios - TechNova
+﻿# Historial de cambios - TechNova
 
+## v1.4
+- Se agrega la columna Marca a inventario.Productos.
+- Se actualiza inventario.vw_CatalogoProductos para mostrar la marca.
 
+## v1.3
+- Se actualiza inventario.vw_CatalogoProductos.
+- Se incorpora FechaUltimaActualizacion.
 
-\## v1.3
+## v1.2
+- Se crea IX_Productos_Activo.
 
-\- Se actualiza inventario.vw\_CatalogoProductos.
+## v1.1
+- Se agrega FechaUltimaActualizacion a inventario.Productos.
 
-\- Se incorpora FechaUltimaActualizacion.
-
-
-
-\## v1.2
-
-\- Se crea IX\_Productos\_Activo.
-
-
-
-\## v1.1
-
-\- Se agrega FechaUltimaActualizacion a inventario.Productos.
-
-
-
-\## v1.0
-
-\- Versión inicial de TechNova\_Central.
-
-\- Versión inicial de TechNova\_Bodega.
-
+## v1.0
+- Versión inicial de TechNova_Central.
+- Versión inicial de TechNova_Bodega.
